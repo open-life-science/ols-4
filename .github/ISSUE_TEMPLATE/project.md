@@ -52,7 +52,7 @@ Before Week 3 (week starting 27 September 2021): Meet your mentor!
 - [ ] Comment on your issue with your draft Roadmap
 - [ ] Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
 
-Before Week 4 (week starting 1 March 2021): Cohort Call (Tooling and roadmapping for Open projects)
+Before Week 4: Cohort Call (Tooling and roadmapping for Open projects)
 - [ ] Attend call or catch up via YouTube
 - [ ] Look up two other projects and comment on their issues with feedback on their open canvas.
 
