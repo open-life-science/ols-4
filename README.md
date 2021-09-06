@@ -1,16 +1,16 @@
-# Open Life Science 3
+# Open Life Science 4
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Welcome! This is the [third cohort of Open Life Science](https://openlifesci.org/ols-3) (OLS-3) program repository. 
+Welcome! This is the [third cohort of Open Life Science](https://openlifesci.org/ols-4) (OLS-4) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
-All the projects going through OLS-3 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-3/projects-participants/)).
+All the projects going through OLS-4 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-4/projects-participants/)).
 
 ## How to Work With Us
 
-Each issue will provide details for a project currently going through OLS-3. 
+Each issue will provide details for a project currently going through OLS-4. 
 Find out more about each project how you can get involved in the individual issues.
 
 ## Participation Guidelines
