@@ -153,4 +153,4 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 
 License: CC BY 4.0, Open Life Science (OLS), 2021
  
-*Reference*: Open Life Science, License*: CC BY 4.0, The Turing Way*
+*Reference: Open Life Science, License*: CC BY 4.0*
