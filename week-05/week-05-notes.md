@@ -1,11 +1,11 @@
 # Week 05: GitHub for Collaboration
 
-Date: 13 October 2021
-Time: 11:30 - 13:00 UTC (see in your time zone:  https://arewemeetingyet.com/london/2021-10-13/12:30/week-05)
-Duration: 90 minutes
-Hosts: Bérénice, Emmy, Yo, 
-Syllabus: https://openlifesci.org/ols-4/schedule/#week-05
-Zoom link to join the call:
+* Date: 13 October 2021
+* Time: 11:30 - 13:00 UTC (see in your time zone:  https://arewemeetingyet.com/london/2021-10-13/12:30/week-05)
+* Duration: 90 minutes
+* Hosts: Yo, Malvika, Bérénice 
+* Syllabus: https://openlifesci.org/ols-4/schedule/#week-05
+* Zoom link to join the call:
 
 ====
 
