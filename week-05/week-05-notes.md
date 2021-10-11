@@ -1,5 +1,12 @@
 # Week 05: GitHub for Collaboration
 
+Date: 13 October 2021
+Time: 11:30 - 13:00 UTC (see in your time zone:  https://arewemeetingyet.com/london/2021-10-13/12:30/week-05)
+Duration: 90 minutes
+Hosts: Bérénice, Emmy, Yo, 
+Syllabus: https://openlifesci.org/ols-4/schedule/#week-05
+Zoom link to join the call:
+
 ====
 
 If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols-4/hackmd-guide](https://hackmd.io/@ols-4/hackmd-guide)
@@ -101,7 +108,7 @@ After the facilitators have demo-ed how to create a minimal website/Git page:
 :pray: Closing
 ---
 
--   Next cohort call: February 26, 2:00 - 3:30 pm CET ([time zone](https://arewemeetingyet.com/Berlin/2020-02-26/14:00/OLS-1%20Cohort%20Call%20(Week%206)))
+-       Next cohort call: October 20, 11:30-13:00 UTC (see in your time zone: https://arewemeetingyet.com/london/2021-10-20/12:30/week-06)
                                                                    
 ### GitHub Resources
 
