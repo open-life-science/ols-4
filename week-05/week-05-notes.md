@@ -55,7 +55,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 4 /
 * Name 5 /
 * Name 6 /
-* Name 7 / 
+* Name 7 / Sunflowers that kept for 2 weeks! 
 * Name 8 / 
 * Name 9 / 
 * Name 10 /
