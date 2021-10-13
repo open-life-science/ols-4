@@ -49,15 +49,15 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Roll call: The session facilitators will add your name before you edit it.
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
-* Name 1 /
-* Name 2 / 
-* Name 3 / 
-* Name 4 /
+* Name 1 / Malvika / Birds chirping in my hometown
+* Name 2 / Jyoti/ Kids fyling kites in the playground
+* Name 4 / Burce / The view from a Bothanical Garden
+* Name 3 / Sara/ finally some morning mist in London! :) trying again?
 * Name 5 /
-* Name 6 /
+* Name 6 / * Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
 * Name 7 / Sunflowers that kept for 2 weeks! 
 * Name 8 / 
-* Name 9 / 
+* Name 9 /Sebastián Ayala Ruano
 * Name 10 /
 * Name 11 / 
 * Name 12 / 
