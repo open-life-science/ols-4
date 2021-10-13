@@ -57,7 +57,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 6 /
 * Name 7 / 
 * Name 8 / 
-* Name 9 / 
+* Name 9 /Sebastián Ayala Ruano
 * Name 10 /
 * Name 11 / 
 * Name 12 / 
