@@ -54,8 +54,8 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 4 / Burce / The view from a Bothanical Garden
 * Name 3 / Sara/ finally some morning mist in London! :) trying again?
 * Name 5 /
-* Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
-* Name 7 / 
+* Name 6 / * Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
+* Name 7 / Sunflowers that kept for 2 weeks! 
 * Name 8 / 
 * Name 9 /Sebastián Ayala Ruano
 * Name 10 /
