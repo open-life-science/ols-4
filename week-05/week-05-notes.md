@@ -51,8 +51,8 @@ we will give you a short 1.5 hour GitHub tutorial:
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
 * Name 1 / Malvika / Birds chirping in my hometown
 * Name 2 / Jyoti/ Kids fyling kites in the playground
-* Name 3 / 
 * Name 4 / Burce / The view from a Bothanical Garden
+* Name 3 / Sara/ finally some morning mist in London! :) trying again?
 * Name 5 /
 * Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
 * Name 7 / 
