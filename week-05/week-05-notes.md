@@ -54,7 +54,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 3 / 
 * Name 4 / Burce / The view from a Bothanical Garden
 * Name 5 /
-* Name 6 /
+* Name 6 / Caitlin Augustin / a lovely walk yesterday morning taking my son to preschool - perfect weather, relaxed mood, got to be fully present
 * Name 7 / 
 * Name 8 / 
 * Name 9 /Sebastián Ayala Ruano
