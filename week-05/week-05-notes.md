@@ -52,7 +52,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 * Name 1 / Malvika / Birds chirping in my hometown
 * Name 2 / 
 * Name 3 / 
-* Name 4 /
+* Name 4 / Burce / The view from a Bothanical Garden
 * Name 5 /
 * Name 6 /
 * Name 7 / 
