@@ -51,7 +51,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
 * Name 1 / Malvika / Birds chirping in my hometown
 * Name 2 / 
-* Name 3 / 
+* Name 3 / Sara/ finally some morning mist in London! :) 
 * Name 4 /
 * Name 5 /
 * Name 6 /
