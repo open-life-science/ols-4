@@ -1,7 +1,7 @@
 # Open Life Science 4 - Elisa's copy
 
 
-Welcome! This is the [third cohort of Open Life Science](https://openlifesci.org/ols-4) (OLS-4) program repository. 
+Welcome! This is the [fourth cohort of Open Life Science](https://openlifesci.org/ols-4) (OLS-4) program repository. 
 This repository will be used for the issue tracker feature of GitHub. 
 All the projects going through OLS-4 will use one issue to keep track of their progress during the program (see [projects and participants](https://openlifesci.org/ols-4/projects-participants/)).
 
