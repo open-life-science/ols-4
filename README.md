@@ -1,4 +1,4 @@
-# Open Life Science 4 - Elisa's copy
+# Open Life Science 4 
 
 
 Welcome! This is the [fourth cohort of Open Life Science](https://openlifesci.org/ols-4) (OLS-4) program repository. 
